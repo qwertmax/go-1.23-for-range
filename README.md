@@ -90,3 +90,5 @@ func main() {
 	}
 }
 ```
+
+[https://go.dev/play/p/AG3Jc95PV-F](Here) you can see live example
