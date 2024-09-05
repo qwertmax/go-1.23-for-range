@@ -100,12 +100,12 @@ func main() {
 		fmt.Println(k, v)
 	}
 
-	// for i, j := range s.All2() {
-	// 	fmt.Println(i, j)
-	// 	if i > 1 {
-	// 		break
-	// 	}
-	// }
-	// return
+	fmt.Println()
 
+	for i, j := range s.All2() {
+		fmt.Println(i, j)
+		if i > 1 {
+			break
+		}
+	}
 }
